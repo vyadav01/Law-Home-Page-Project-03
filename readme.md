@@ -13,12 +13,14 @@ In this project, I have learned about **how to approach to write html by targeti
 
 It took me 3 hours to complete this project.
 
-**[Live Project's netlify link](https://food-restaurant-project-02.netlify.app/ "Project link")**
-
 **Note :** This project is not optimized for mobile yet.
 
 
-[![Project ScreenShot](./css%20project_03%20done.png)](https://food-restaurant-project-02.netlify.app/ "Project link")
+**[Live Project's netlify link](https://law-firm-landing-page-project-03.netlify.app/ "Project link")**
 
 
-[![Badge](https://img.shields.io/badge/Project__03-Law%20Home%20Page-yellow)](https://food-restaurant-project-02.netlify.app/ "Project link")
+
+[![Project ScreenShot](./css%20project_03%20done.png)](https://law-firm-landing-page-project-03.netlify.app/ "Project link")
+
+
+[![Badge](https://img.shields.io/badge/Project__03-Law%20Home%20Page-yellow)](https://law-firm-landing-page-project-03.netlify.app/ "Project link")
