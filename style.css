@@ -1,0 +1,150 @@
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: #2b2922;
+  color: #ffffff;
+}
+
+.logo {
+  width: 100px;
+ margin-right: 350px;
+}
+
+.navbar,
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 55px;
+}
+
+
+.list {
+  padding: 20px 20px;
+}
+
+.list .list-item {
+  list-style-type: none;
+  margin: 0px 20px;
+  font-size: 14px;
+  font-family: "RedRose", sans-serif;
+  font-weight: 300;
+  color: #76746f;
+  transition: 0.3s;
+}
+
+.list .list-item:hover {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.navbar div .button-small {
+  background-color: transparent;
+  color: #a08f36;
+  padding: 10px 22px;
+  border: 1px solid #a08f36;
+  outline: none;
+  font-size: 15px;
+  font-family: "RedRose", sans-serif;
+  font-weight: 600;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.navbar div .button-small:hover {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.hero .top-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px 0px;
+}
+
+.hero .top-content .hero-heading {
+  width: 15ch;
+  font-size: 55px;
+  font-family: "RedRose", sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 72px;
+}
+
+.hero .top-content .sub-heading {
+  width: 37ch;
+  font-size: 16px;
+  font-family: "RedRose", sans-serif;
+  font-weight: 400;
+  color: #adaaa2;
+  line-height: 22px;
+}
+
+.hero .bottom-image img {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  height: 565px;
+}
+
+.hero .footer-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  height: 69px;
+}
+
+.hero .footer-button .bottom-button {
+  border: none;
+  outline: none;
+  border-radius: 25px;
+  padding: 8px 13px;
+  font-size: 16px;
+  font-family: "RedRose", sans-serif;
+  font-weight: 500;
+  background-color: #535147;
+}
+
+.hero .footer-button .previous-button,
+.hero .footer-button .next-button {
+  padding: 20px 16px;
+  background-color: #535147;
+}
+
+.hero .footer-button .next-button {
+  background-color: #a08f36;
+}
+
+
+.hero .footer-button .previous-button .bottom-button-01 {
+    background-color: transparent;
+    color: #a08f36;
+    border: 1px solid;
+    margin: 0px 10px;
+    transition: 0.3s;
+}
+
+.hero .footer-button .next-button .bottom-button-02 {
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    transition: 0.3s;
+}
+
+.hero .footer-button .previous-button .bottom-button-01:hover{
+    color: #ffffff;
+}
+
+.hero .footer-button .next-button .bottom-button-02:hover{
+    color: #535147;
+     border-color:#535147; 
+}
